@@ -11,7 +11,7 @@ const projects = [
     desc: "A feature-rich expense tracking application built with React JS and Redux Toolkit for efficient global state management. Allows users to add, categorize, and visualize their expenses with a clean and intuitive interface.",
     tags: ["React JS", "Redux Toolkit", "JavaScript", "CSS"],
     github: "https://github.com/Amitdewangan2003/Expense-Tracker",
-    demo: "#",
+    demo: "https://expense-tracker-eta-indol-31.vercel.app/",
   },
 ];
 
