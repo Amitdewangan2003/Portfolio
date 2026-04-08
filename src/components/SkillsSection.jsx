@@ -4,11 +4,8 @@ const skills = [
   { name: "HTML / CSS", icon: "🌐", level: 90 },
   { name: "JavaScript", icon: "⚡", level: 85 },
   { name: "React JS", icon: "⚛️", level: 80 },
-  { name: "Redux Toolkit", icon: "🔄", level: 70 },
   { name: "Tailwind CSS", icon: "", level: 70 },
-  { name: "Express.js", icon: "🚂", level: 65 },
   { name: "Git & GitHub", icon: "🔀", level: 75 },
-  { name: "REST APIs", icon: "🔗", level: 75 },
   { name: "Responsive Design", icon: "📱", level: 85 },
   { name: "Problem Solving", icon: "🧩", level: 80 },
 ];

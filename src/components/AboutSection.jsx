@@ -47,10 +47,6 @@ export default function AboutSection() {
 
       <div className="stats-grid fade-in">
         <div className="stat-card">
-          <div className="stat-number">1+</div>
-          <div className="stat-label">Years Coding</div>
-        </div>
-        <div className="stat-card">
           <div className="stat-number">2+</div>
           <div className="stat-label">Projects Built</div>
         </div>
